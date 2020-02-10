@@ -8,6 +8,10 @@
     "url": "https://g.hslp.ca/"
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ghslp/next-js-budget-enforcer.git"
+  },
   "scripts": {
     "build": "tsc"
   },
